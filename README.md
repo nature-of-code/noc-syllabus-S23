@@ -1,10 +1,6 @@
 # The Nature of Code, Spring 2021
 
-Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world help us to create digital worlds? This online, asynchronous course focuses on the programming strategies and techniques behind computer simulations of natural systems. Topics explored range from mathematics and physics to simulations of complex systems. Subjects covered include motion, forces, trigonometry, fractals, cellular automata, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using the p5.js library. This course requires Introduction to Computational Media or equivalent (one semester of programming experience.)
-
-The class will be taught asynchronously meaning lectures will be available online, discussion will take place online and assignments should be submitted online. The material for each module will include a written chapter from the draft 2nd edition of The Nature of Code (PDF) and ~1-2 hours of video tutorials. Students can choose the format that suits them best. Students will complete one open-ended creative coding exercise for each module along with written documentation in the form of a blog post. At the end of the semester, students will develop and produce a final project.
-
-In addition to the asynchronous material and assignments, there will be weekly office hours and discussion sessions for students to ask questions and share work. These optional sessions will be scheduled to accommodate time zones.
+Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world help us to create digital worlds? This course focuses on the programming strategies and techniques behind computer simulations of natural systems. Topics explored range from mathematics and physics to simulations of complex systems. Subjects covered include motion, forces, trigonometry, fractals, cellular automata, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using the p5.js library. This course requires Introduction to Computational Media or equivalent (one semester of programming experience.)
 
 ## Code of Conduct
 
@@ -20,33 +16,33 @@ For information on office hours, help sessions, please see the course Brightspac
 
 ## Schedule
 
-### 1: Week of Feb 1 - [Introduction](module00-intro)
+### 1: Jan 25/26 - [Introduction](module00-intro)
 
-### 2: Week of Feb 8 - [Vectors](module01-vectors)
+### 2: Feb 01/02 - [Vectors](module01-vectors)
 
-### 3: Week of Feb 15 - [Forces](module02-forces)
+### 3: Feb 08/09 - [Forces](module02-forces)
 
-### 4: Week of Feb 22 - [Oscillating Motion](module03-osc)
+### 4: Feb 15/16 - [Oscillating Motion](module03-osc)
 
-### 5: Week of Mar 1 - [Particle Systems](module04-systems)
+### 5: Feb 22/23 - [Particle Systems](module04-systems)
 
-### 6: Week of Mar 8 - [Simulation Project](projects/simulation)
+### 6: Mar 01/12 - [Autonomous Agents](module05-agents)
 
-### 7: Week of Mar 15 - [Autonomous Agents Part 1](module05-agents)
+### 7: Mar 08/09 - [Physics Libraries](module06-libraries)
 
-### 8: Week of Mar 22 - [Autonomous Agents Part 2](module05-agents)
+### 8: Mar 22/23 - [Simulation Project](projects/simulation)
 
-### 9: Week of Mar 29 - [Fractals and Cellular Automata](module06-fractals-ca)
+### 9: Mar 29/30 - [Fractals and Cellular Automata](module07-fractals-ca)
 
-### 10: Week of Apr 5 - [Genetic Algorithms](module07-ga)
+### 10: Apr 05/06 - [Genetic Algorithms](module08-ga)
 
-### 11: Week of Apr 12 - [Neural Evolution](module08-neuro)
+### 11: Apr 12/13 - [Neural Evolution](module09-neuro)
 
-### 12: Week of Apr 19 - [Final Project](projects/final)
+### 12: Apr 19/20 - [Final Project](projects/final)
 
-### 13: Week of Apr 26 - [Final Project](projects/final)
+### 13: Apr 26/27 - [Final Project](projects/final)
 
-### 14: Week of May 3 - [Final Project](projects/final)
+### 14: May 03/04 - [Final Project](projects/final)
 
 ## Evaluation
 
