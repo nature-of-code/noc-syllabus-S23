@@ -1,10 +1,10 @@
-# The Nature of Code, Spring 2021
+# The Nature of Code, Spring 2023
 
 Can we capture the unpredictable evolutionary and emergent properties of nature in software? Can understanding the mathematical principles behind our physical world help us to create digital worlds? This course focuses on the programming strategies and techniques behind computer simulations of natural systems. Topics explored range from mathematics and physics to simulations of complex systems. Subjects covered include motion, forces, trigonometry, fractals, cellular automata, genetic algorithms, and neural networks. Examples are demonstrated in JavaScript using the p5.js library. This course requires Introduction to Computational Media or equivalent (one semester of programming experience.)
 
 ## Code of Conduct
 
-This course follows the [ITP/IMA Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct/blob/main/README.md).
+This course follows the [ITP/IMA Code of Conduct](https://itpnyu.github.io/ITP-IMA-Code-of-Conduct/).
 
 ## Land Acknowledgement
 
@@ -12,7 +12,7 @@ This classroom, New York University and Brooklyn, NY is situated on the continuo
 
 ## Office Hours and Help
 
-For information on office hours, help sessions, please see the course Brightspace.
+For information on office hours and additional help, please see e-mail from the instructor.
 
 ## Schedule
 
@@ -25,6 +25,8 @@ For information on office hours, help sessions, please see the course Brightspac
 ### 4: Feb 15/16 - [Oscillating Motion](module03-osc)
 
 ### 5: Feb 22/23 - [Particle Systems](module04-systems)
+
+v
 
 ### 6: Mar 01/12 - [Autonomous Agents](module05-agents)
 
