@@ -42,7 +42,7 @@ Develop a sketch with motion driven by forces (vectors). Here are some ideas:
   - Narrate the process of creating your sketch.
   - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
   - What problems/discoveries did you encounter along the way?
-- Submit a link to your blog post to the course Brightspace.
+- Submit a link to your blog post to the course wiki.
 
 ## Emoji Key
 
