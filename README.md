@@ -26,8 +26,6 @@ For information on office hours and additional help, please see e-mail from the 
 
 ### 5: Feb 22/23 - [Particle Systems](module04-systems)
 
-v
-
 ### 6: Mar 01/12 - [Autonomous Agents](module05-agents)
 
 ### 7: Mar 08/09 - [Physics Libraries](module06-libraries)
