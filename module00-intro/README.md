@@ -27,7 +27,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [Introduction to Perlin Noise](https://youtu.be/Qf4dIN99e2w) - 11 min
 - 🚂 [Perlin noise() vs. random()](https://youtu.be/YcdldZ1E9gU) - 10 min
 - 🚂 [Graphing 1D noise](https://youtu.be/y7sgcFhk6ZM) - 13 min
-- 🚂 [2D Random Walk](https://youtu.be/l__fEY1xanY) - 15 min
+- 🚂 [2D Random Walk](https://thecodingtrain.com/challenges/52-random-walker) - 15 min
 
 ## Supplemental Material
 
@@ -42,8 +42,9 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### More about Random Walks
 
-- 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE) - 47 min
-- 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min (note vectors will be explored in detail in Module 1)
+- 🚂 [Diffusion-Limited Aggregation](https://thecodingtrain.com/challenges/34-diffusion-limited-aggregation) - 47 min
+- 🚂 [Random Walker with Vectors and Lévy Flight](https://thecodingtrain.com/challenges/53-random-walker-with-vectors-and-levy-flight) - 16 min (Note: vectors will be explored in detail next week!)
+- 🚂 [Self Avoiding Walk](https://thecodingtrain.com/challenges/162-self-avoiding-walk)
 
 ### Code Examples
 
