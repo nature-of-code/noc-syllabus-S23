@@ -46,12 +46,8 @@ For information on office hours and additional help, please see e-mail from the 
 
 ## Evaluation
 
-- Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
-- You are required to submit all weekly assignments and a final project.
-- Grading (pass/fail) will be based on a combination of factors:
-  - Participation course online community spaces and feedback on other students' projects (20%)
-  - Quality of assignments (60%)
-  - Final Project (20%)
+- IMA: [IMA Grading Policies](IMA.md)
+- ITP: [ITP Grading Policies](ITP.md)
 
 ## Statement of Academic Integrity
 
