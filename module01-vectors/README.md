@@ -25,7 +25,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Code Examples
 
-- 💻 [Nature of Code Chapter 1 Book Example Collection](https://editor.p5js.org/natureofcode/collections/sHb28606T)
+- 💻 [Nature of Code Chapter 1 Book Example Collection](https://editor.p5js.org/natureofcode/collections/MlQmiDlzCY)
 - 💻 [Nature of Code Chapter 1 Video Example Collection](https://editor.p5js.org/codingtrain/collections/-nLVvrmY7)
 - 💻 [Drawing Object Trails](https://editor.p5js.org/codingtrain/sketches/9DnjxCNB-)
 - 💻 [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
