@@ -18,7 +18,12 @@ The following emoji key will hopefully help you navigate the material for each m
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around.
 
-- 📕 [PDF: Introduction Draft Edition 2](https://drive.google.com/file/d/1G_16tPKByN9ya6l2Ws58X-OJK1yex9IX/view?usp=sharing)
+### Text
+
+- 📕 [Nature of Code 2nd Edition Introduction](https://nature-of-code-2nd-edition.netlify.app/introduction/)
+
+### Videos
+
 - 🚂 [Introduction to Perlin Noise](https://youtu.be/Qf4dIN99e2w) - 11 min
 - 🚂 [Perlin noise() vs. random()](https://youtu.be/YcdldZ1E9gU) - 10 min
 - 🚂 [Graphing 1D noise](https://youtu.be/y7sgcFhk6ZM) - 13 min
