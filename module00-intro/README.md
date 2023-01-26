@@ -61,9 +61,6 @@ Using the random walker as a model, develop a sketch that experiments with motio
 - Use a random walker to "paint" colors.
 - Try a walk in 3D, see [Quantum Cloud](http://en.wikipedia.org/wiki/Quantum_Cloud) for an example.
 - Create a random walker with dynamic probabilities. For example, can you give it a 50% chance of moving in the direction of the mouse?
-- Try implementing a [self-avoiding walk](http://en.wikipedia.org/wiki/Self-avoiding_walk). This one is really hard!
-- Create a variation on the [a Levy Flight](http://en.wikipedia.org/wiki/L%C3%A9vy_flight).
-- Create an array of `Walker` objects. Try adding a new object when you click the mouse.
 - Use the random walker as a template to simulate some real-world "natural" motion. Can you develop a set of rules for simulating that behavior? Ideas: nervous fly, hopping bunny, slithering snake, etc. Consider the challenge of using minimal visual design, i.e. black and white primitive shapes. Can you give your "being" a personality? Can it express emotions -- happiness, sadness, fear?
 
 Another way of thinking about the assignment is to apply the rules of motion to another medium of expression: sound, color, number, scale...
