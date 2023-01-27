@@ -29,6 +29,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [Graphing 1D noise](https://youtu.be/y7sgcFhk6ZM) - 13 min
 - 🚂 [2D Random Walk](https://thecodingtrain.com/challenges/52-random-walker) - 15 min
 
+## p5.js Review
+
+If you feel you need a p5.js refresher, specifically around Object Oriented Programming in JavaScript (classes and objects), here are links to the ICM videos:
+
+- [Full p5.js track](https://thecodingtrain.com/tracks/code-programming-with-p5-js/)
+- [Starting with OOP in JavaScript](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/6-objects/2-classes)
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your learning style the most, please reach out.
