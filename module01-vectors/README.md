@@ -18,27 +18,20 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
 
-- 🚂 [Random Walker with Vectors and Lévy Flight](https://youtu.be/bqF9w9TTfeo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min
 - 🚂 [Drawing Object Trails](https://youtu.be/vqE8DMfOajk) - 19 min
-- 🚂 [Diffusion-Limited Aggregation](https://youtu.be/Cl_Gjj80gPE) - 47 min
-- 🚂 [Brownian Tree Snowflake](https://youtu.be/XUA8UREROYE) - 19 min
 
 ### Code Examples
 
 - 💻 [Nature of Code Chapter 1 Book Example Collection](https://editor.p5js.org/natureofcode/collections/MlQmiDlzCY)
 - 💻 [Nature of Code Chapter 1 Video Example Collection](https://editor.p5js.org/codingtrain/collections/-nLVvrmY7)
 - 💻 [Drawing Object Trails](https://editor.p5js.org/codingtrain/sketches/9DnjxCNB-)
-- 💻 [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
-- 💻 [Brownian Motion Snowflake](https://editor.p5js.org/codingtrain/sketches/SJcAeCpgE)
-- 💻 [Random Walk Lévy Flight](https://editor.p5js.org/codingtrain/sketches/L24X90MBH)
 
 ## Assignment
 
 Try using vectors! Here are some suggestions:
 
-- Find any sketch you previously created in p5.js with separate `x`,`y` variables for elements on the sketch. Can you rewrite the sketch with `createVector()` for each of these pairs?
-- For example, rework your sketch from week 1 and use vectors! Try incorporating the concept of _forces_ into the environment by working with _only_ the acceleration of the object. Create a formula for calculating a dynamic acceleration, one that changes over time based on any number of factors.
-- The `p5.Vector` class can be very useful expanding the random walk object to create fractal-like patterns. Two examples are [Diffusion Limited Aggregation](https://thecodingtrain.com/CodingChallenges/034-dla) and [Brownian Tree Snowflake](https://thecodingtrain.com/CodingChallenges/127-snowflake-brownian.html). Create your own variation of these patterns. What would happen if you added forces and acceleration?
+- Find any sketch you previously created in p5.js with separate `x`,`y` variables for elements on the sketch. Can you rewrite the sketch with `createVector()` for each of these pairs? For example, rework your sketch from week 1 and use vectors! Try incorporating the concept _acceleration_. Can you create a formula for calculating a dynamic acceleration, one that changes over time based on any number of factors.
+- Zannah Marsh, illustrator for the Nature of Code book, created [a guide to creature design with code](https://docs.google.com/document/d/1klciKQwtuM6iqBghASlCCEQDh4-cN1qJSSul30vflZs/edit). Try creating your own creature design in p5.js and incorporating it into the `Mover` class from any of the examples.
 
 ### Instructions
 
