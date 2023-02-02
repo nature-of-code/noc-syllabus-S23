@@ -6,7 +6,7 @@ This module, we are really digging into the foundational material for the class.
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [PDF: Chapter 1: Vectors](https://drive.google.com/file/d/1agh-jYX4YBWOBJQLEQxaFWOZXr6H3s82/view?usp=sharing)
+- 📗 [Nature of Code p5.js edition draft Chapter 1: Vectors](https://nature-of-code-2nd-edition.netlify.app/vectors/)
 - 🚂 [What is a Vector?](https://youtu.be/bKEaK7WNLzM?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 15 min
 - 🚂 [Vector Math](https://youtu.be/Rob0pbE7kks?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 12 min
 - 🚂 [Random Vectors](https://youtu.be/jupjuq9Jl-M?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 9 min
