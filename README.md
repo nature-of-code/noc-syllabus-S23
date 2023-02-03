@@ -28,9 +28,11 @@ For information on office hours and additional help, please see e-mail from the 
 
 ### 6: Mar 01/12 - [Autonomous Agents](module05-agents)
 
-### 7: Mar 08/09 - [Physics Libraries](module06-libraries)
+### 8: Mar 08/09 - [Simulation Project](projects/simulation)
 
-### 8: Mar 22/23 - [Simulation Project](projects/simulation)
+### SPRING BREAK
+
+### 7: Mar 22/23 - TBD (Physics Libraries or separate Fractals/CA?)
 
 ### 9: Mar 29/30 - [Fractals and Cellular Automata](module07-fractals-ca)
 
