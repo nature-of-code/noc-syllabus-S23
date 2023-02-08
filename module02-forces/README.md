@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [PDF: Chapter 2: Forces](https://drive.google.com/file/d/1jM4pliw42YsnpMbhVrGqKut0Ih-UXWlR/view?usp=sharing)
+- 📗 [Chapter 2](https://nature-of-code-2nd-edition.netlify.app/force/)
 - 🚂 [Simulating Forces: Gravity and Wind](https://youtu.be/Uibl0UE4VH8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 24 min
 - 🚂 [Mass and Acceleration](https://youtu.be/L7CECWLdTmo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 12 min
 - 🚂 [Friction Force](https://youtu.be/WBdhAuWS6X8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 14 min
