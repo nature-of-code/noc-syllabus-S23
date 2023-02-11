@@ -20,7 +20,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Code Examples
 
-- 💻 [Nature of Code Chapter 1 Book Example Collection](https://editor.p5js.org/natureofcode/collections/PMfi86iy2)
+- 💻 [Nature of Code Chapter 1 Book Example Collection](https://editor.p5js.org/natureofcode/collections/peF4UyTtK)
 - 💻 [Nature of Code Chapter 2 Video Example Collection](https://editor.p5js.org/codingtrain/collections/ERtrjMQWe)
 - 💻 [Attraction and Repulsion](https://editor.p5js.org/codingtrain/sketches/6WL2O4vq0)
 
