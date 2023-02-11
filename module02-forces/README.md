@@ -15,7 +15,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
 
-- 🚂 [Attraction and Repulsion Video Tutorial](https://youtu.be/OAcXnzRNiCY)
+- 🚂 [Attraction and Repulsion Video Tutorial]([https://youtu.be/OAcXnzRNiCY](https://editor.p5js.org/codingtrain/sketches/6WL2O4vq0))
 - 📕 [The Physics Classroom: Newton's Laws](https://www.physicsclassroom.com/Physics-Tutorial/Newton-s-Laws)
 
 ### Code Examples
