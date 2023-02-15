@@ -69,8 +69,8 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 ### Pendulums and Springs
 
 - Visualize an array of pendulums. For a start, here is [an example multi-pendulum visualization](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO) along with [live stream archive](https://youtu.be/dpqNqyQCcbY?t=1684).
-- Visualize the path of a [double pendulum](https://thecodingtrain.com/CodingChallenges/093-double-pendulum.html).
-- Create a system of [connected particles and springs](https://thecodingtrain.com/CodingChallenges/160-spring-forces.html).
+- Visualize the path of a [double pendulum](https://thecodingtrain.com/challenges/93-double-pendulum).
+- Create a system of [connected particles and springs](https://thecodingtrain.com/challenges/160-spring-forces).
 
 ### Oscillation in other mediums
 
