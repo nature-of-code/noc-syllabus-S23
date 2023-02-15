@@ -30,9 +30,9 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Polar Coordinates
 
-- 🚂 [Mathematical Rose Patterns](https://thecodingtrain.com/CodingChallenges/055-roses.html) - 12 min
-- 🚂 [LissaJous Curve Table](https://thecodingtrain.com/CodingChallenges/116-lissajous.html) - 27 min
-- 🚂 [Times Tables and the Cardioid](https://thecodingtrain.com/CodingChallenges/133-times-tables-cardioid.html) - 17 min
+- 🚂 [Mathematical Rose Patterns](https://thecodingtrain.com/challenges/55-mathematical-rose-patterns) - 12 min
+- 🚂 [LissaJous Curve Table](https://thecodingtrain.com/challenges/116-lissajous-curve-table) - 27 min
+- 🚂 [Times Tables and the Cardioid](https://thecodingtrain.com/challenges/133-time-tables-cardioid-visualization) - 17 min
 
 ### Fourier Series and Transforms
 
