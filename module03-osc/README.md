@@ -37,10 +37,8 @@ For each module, I will provide a list of additional video tutorials and reading
 ### Fourier Series and Transforms
 
 - 🎥 [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown - 20 min
-- 🚂 [Fourier Series p5.js](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html) - 28 min
-- 🚂 [Fourier Transform: Drawing with Epicycles Part 1](https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html) - 46 min
-- 🚂 [Fourier Transform Drawing with Epicycles Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html) - 9 min
-- 🚂 [Fourier Transform Drawing with Epicycles Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html) - 25 min
+- 🚂 [Fourier Series p5.js](https://thecodingtrain.com/challenges/125-fourier-series) - 28 min
+- 🚂 [Fourier Transform: Drawing with Epicycles](https://thecodingtrain.com/challenges/130-drawing-with-fourier-transform-and-epicycles) - 3 parts, 1 hour, 30 minutes
 
 ### Code Example Collections
 
