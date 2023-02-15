@@ -42,7 +42,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Code Example Collections
 
-- 💻 [Nature of Code Chapter 3 Book Example Collection](https://editor.p5js.org/natureofcode/collections/evtqpIiTP)
+- 💻 [Nature of Code Chapter 3 Book Example Collection](https://editor.p5js.org/natureofcode/collections/ndrwnaIvq)
 - 💻 [Nature of Code Chapter 3 Video Example Collection](https://editor.p5js.org/codingtrain/collections/bD7HTvWYL)
 - 💻 [Pendulum and Spring Collection](https://editor.p5js.org/codingtrain/collections/z5Z2btE3f)
 - 💻 [Polar Coordinate Collection](https://editor.p5js.org/codingtrain/collections/tkBBQAsUT)
