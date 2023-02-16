@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Chapter 3: Oscillation]https://nature-of-code-2nd-edition.netlify.app/oscillation/)
+- 📗 [Chapter 3: Oscillation](https://nature-of-code-2nd-edition.netlify.app/oscillation/)
 - 🚂 [3.1 Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) - 11 min
 - 🚂 [3.2 Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-angular-motion.html) - 10 min
 - 🚂 [3.3 Angles and Vectors](https://thecodingtrain.com/learning/nature-of-code/3.3-angles-and-vectors.html) - 10 min
