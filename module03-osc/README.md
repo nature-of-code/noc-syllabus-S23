@@ -59,12 +59,12 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 
 ### Polar Coordinate Designs
 
-- You can use polar coordinates a variety of patterns derived from the points along the contours of a circle. Visualize your own pattern. Feel free to [start from any of these polar coordinate examples](#polar-coordinates).
-- You might also google "parametric equations" to find one not in the examples above like this [heart GIF](https://twitter.com/shiffman/status/1095764239665512453).
+- You can use polar coordinates a variety of patterns derived from the points along the contours of a circle. Visualize your own pattern. Feel free to [start from any of these polar coordinate examples](https://editor.p5js.org/codingtrain/collections/tkBBQAsUT).
+- You might also google "parametric equations" to find one not in the examples above like this [heart curve](https://thecodingtrain.com/challenges/134-heart-curve)
 
 ### Angles and Forces
 
-- Create a simulation where objects are shot out of a cannon. Each object should experience a sudden force when shot (just once) as well as gravity (always present). Add rotation to the object to model its spin as its shot from the cannon. How realistic can you make it look? [example solution](https://editor.p5js.org/natureofcode/sketches/H1E3qk5Lz)
+- Create a simulation where objects are shot out of a cannon. Each object should experience a sudden force when shot (just once) as well as gravity (always present). Add rotation to the object to model its spin as its shot from the cannon. How realistic can you make it look? [example cannon solution](https://editor.p5js.org/natureofcode/sketches/39hocOYUa)
 - Create a simulation of a vehicle that you can drive around the screen using the arrow keys: left arrow accelerates the car to the left, right to the right. The car should point in the direction it is currently moving.
 
 ### Pendulums and Springs
