@@ -4,14 +4,14 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [PDF: Chapter 3: Oscillation](https://drive.google.com/file/d/16FLmR995lyDChKBUmp4qYdb1et6TdV0t/view?usp=sharing)
-- 🚂 [Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) - 11 min
-- 🚂 [Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-angular-motion.html) - 10 min
-- 🚂 [Angles and Vectors](https://thecodingtrain.com/learning/nature-of-code/3.3-angles-and-vectors.html) - 10 min
-- 🚂 [Polar Coordinates](https://thecodingtrain.com/learning/nature-of-code/3.4-polar-coordinates.html) - 16 min
-- 🚂 [Simple Harmonic Motion](https://thecodingtrain.com/learning/nature-of-code/3.5-simple-harmonic-motion.html) - 12 min
-- 🚂 [Graphing Sine Wave](https://thecodingtrain.com/learning/nature-of-code/3.6-graphing-sine.html) - 10 min
-- 🚂 [Additive Waves](https://thecodingtrain.com/learning/nature-of-code/3.7-additive-waves.html) - 13 min
+- 📗 [Chapter 3: Oscillation]https://nature-of-code-2nd-edition.netlify.app/oscillation/)
+- 🚂 [3.1 Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) - 11 min
+- 🚂 [3.2 Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-angular-motion.html) - 10 min
+- 🚂 [3.3 Angles and Vectors](https://thecodingtrain.com/learning/nature-of-code/3.3-angles-and-vectors.html) - 10 min
+- 🚂 [3.4 Polar Coordinates](https://thecodingtrain.com/learning/nature-of-code/3.4-polar-coordinates.html) - 16 min
+- 🚂 [3.5 Simple Harmonic Motion](https://thecodingtrain.com/learning/nature-of-code/3.5-simple-harmonic-motion.html) - 12 min
+- 🚂 [3.6 Graphing Sine Wave](https://thecodingtrain.com/learning/nature-of-code/3.6-graphing-sine.html) - 10 min
+- 🚂 [3.7 Additive Waves](https://thecodingtrain.com/learning/nature-of-code/3.7-additive-waves.html) - 13 min
 
 ## Supplemental Material
 
@@ -19,11 +19,11 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Pendulums and Springs
 
-- 🚂 [Pendulum Tutorial Video](https://youtu.be/NBWMtlbbOag) - 22 min
+- 🚂 [Pendulum Challenge](https://thecodingtrain.com/challenges/lang/all/topic/pendulum) - 22 min
   - 💻 [Simple Pendulum](https://editor.p5js.org/codingtrain/sketches/SN-39sHAC)
   - 💻 [Pendulum Class Example](https://editor.p5js.org/natureofcode/sketches/SyXJrlZOl)
   - 💻 [Array of Pendulums](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO)
-- 🚂 [Spring Forces Tutorial Video](https://youtu.be/Rr-5HiXquhw) - 32 min
+- 🚂 [Spring Forces Challenge](https://thecodingtrain.com/challenges/160-spring-forces) - 32 min
   - 💻 [Simple Spring](https://editor.p5js.org/codingtrain/sketches/dcd6-2mWa)
   - 💻 [Spring with Vector](https://editor.p5js.org/codingtrain/sketches/_A2pm_SSg)
   - 💻 [Spring and Particle Class](https://editor.p5js.org/codingtrain/sketches/9BAoEn4Po)
@@ -37,6 +37,7 @@ For each module, I will provide a list of additional video tutorials and reading
 ### Fourier Series and Transforms
 
 - 🎥 [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown - 20 min
+- 🎥 [But what is the Fourier series?](https://youtu.be/r6sGWTCMz2k) by 3Blue1Brown - 24 min
 - 🚂 [Fourier Series p5.js](https://thecodingtrain.com/challenges/125-fourier-series) - 28 min
 - 🚂 [Fourier Transform: Drawing with Epicycles](https://thecodingtrain.com/challenges/130-drawing-with-fourier-transform-and-epicycles) - 3 parts, 1 hour, 30 minutes
 
