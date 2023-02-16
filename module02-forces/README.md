@@ -5,17 +5,18 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - 📗 [Chapter 2](https://nature-of-code-2nd-edition.netlify.app/force/)
-- 🚂 [Simulating Forces: Gravity and Wind](https://youtu.be/Uibl0UE4VH8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 24 min
-- 🚂 [Mass and Acceleration](https://youtu.be/L7CECWLdTmo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 12 min
-- 🚂 [Friction Force](https://youtu.be/WBdhAuWS6X8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 14 min
-- 🚂 [Drag Force](https://youtu.be/DxFDgOYEoy8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
-- 🚂 [Gravitational Attraction](https://youtu.be/EpgB3cNhKPM?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min
+- 🚂 [2.1 Simulating Forces: Gravity and Wind](https://youtu.be/Uibl0UE4VH8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 24 min
+- 🚂 [2.2 Mass and Acceleration](https://youtu.be/L7CECWLdTmo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 12 min
+- 🚂 [2.3 Friction Force](https://youtu.be/WBdhAuWS6X8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 14 min
+- 🚂 [2.4 Drag Force](https://youtu.be/DxFDgOYEoy8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
+- 🚂 [2.5 Gravitational Attraction](https://youtu.be/EpgB3cNhKPM?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min
+- 🚂 [2.6 Mutual Attraction](https://youtu.be/GjbKsOkN1Oc?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 22 min
 
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
 
-- 🚂 [Attraction and Repulsion Video Tutorial](https://thecodingtrain.com/challenges/56-attraction-and-repulsion-forces)
+- 🚂 [Attraction and Repulsion: Challenge 56](https://thecodingtrain.com/challenges/56-attraction-and-repulsion-forces)
 - 📕 [The Physics Classroom: Newton's Laws](https://www.physicsclassroom.com/Physics-Tutorial/Newton-s-Laws)
 
 ### Code Examples
