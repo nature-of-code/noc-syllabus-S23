@@ -27,6 +27,7 @@ For each module, I will provide a list of additional video tutorials and reading
   - 💻 [Simple Spring](https://editor.p5js.org/codingtrain/sketches/dcd6-2mWa)
   - 💻 [Spring with Vector](https://editor.p5js.org/codingtrain/sketches/_A2pm_SSg)
   - 💻 [Spring and Particle Class](https://editor.p5js.org/codingtrain/sketches/9BAoEn4Po)
+  - 💻 [Soft String](https://editor.p5js.org/codingtrain/sketches/S5dY7qjxP)
 
 ### Polar Coordinates
 
@@ -36,10 +37,10 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Fourier Series and Transforms
 
-- 🎥 [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown - 20 min
 - 🎥 [But what is the Fourier series?](https://youtu.be/r6sGWTCMz2k) by 3Blue1Brown - 24 min
 - 🚂 [Fourier Series p5.js](https://thecodingtrain.com/challenges/125-fourier-series) - 28 min
 - 🚂 [Fourier Transform: Drawing with Epicycles](https://thecodingtrain.com/challenges/130-drawing-with-fourier-transform-and-epicycles) - 3 parts, 1 hour, 30 minutes
+- 🎥 [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown - 20 min
 
 ### Code Example Collections
 
@@ -60,17 +61,17 @@ The idea for this week is to use trigonometric functions and/or oscillating moti
 ### Polar Coordinate Designs
 
 - You can use polar coordinates a variety of patterns derived from the points along the contours of a circle. Visualize your own pattern. Feel free to [start from any of these polar coordinate examples](https://editor.p5js.org/codingtrain/collections/tkBBQAsUT).
-- You might also google "parametric equations" to find one not in the examples above like this [heart curve](https://thecodingtrain.com/challenges/134-heart-curve)
+- You might also google "parametric equations" to find one not in the examples above like this [heart curve](https://thecodingtrain.com/challenges/134-heart-curve).
 
 ### Angles and Forces
 
 - Create a simulation where objects are shot out of a cannon. Each object should experience a sudden force when shot (just once) as well as gravity (always present). Add rotation to the object to model its spin as its shot from the cannon. How realistic can you make it look? [example cannon solution](https://editor.p5js.org/natureofcode/sketches/39hocOYUa)
-- Create a simulation of a vehicle that you can drive around the screen using the arrow keys: left arrow accelerates the car to the left, right to the right. The car should point in the direction it is currently moving.
+- Create a simulation of a vehicle that you can drive around the screen using the arrow keys: left arrow accelerates the car to the left, right to the right. The car should point in the direction it is currently moving. You might also try to model the ship from the game asteroids! [Asteroids Solution](https://editor.p5js.org/natureofcode/sketches/7jQEBLJhX)
 
 ### Pendulums and Springs
 
 - Visualize an array of pendulums. For a start, here is [an example multi-pendulum visualization](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO) along with [live stream archive](https://youtu.be/dpqNqyQCcbY?t=1684).
-- Visualize the path of a [double pendulum](https://thecodingtrain.com/challenges/93-double-pendulum).
+- You can also learn about the math behind a [double pendulum simulation](https://thecodingtrain.com/challenges/93-double-pendulum).
 - Create a system of [connected particles and springs](https://thecodingtrain.com/challenges/160-spring-forces).
 
 ### Oscillation in other mediums
