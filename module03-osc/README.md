@@ -21,7 +21,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 - 🚂 [Pendulum Challenge](https://thecodingtrain.com/challenges/lang/all/topic/pendulum) - 22 min
   - 💻 [Simple Pendulum](https://editor.p5js.org/codingtrain/sketches/SN-39sHAC)
-  - 💻 [Pendulum Class Example](https://editor.p5js.org/natureofcode/sketches/SyXJrlZOl)
+  - 💻 [Pendulum Class Example](https://editor.p5js.org/natureofcode/sketches/_YL1zZcRh)
   - 💻 [Array of Pendulums](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO)
 - 🚂 [Spring Forces Challenge](https://thecodingtrain.com/challenges/160-spring-forces) - 32 min
   - 💻 [Simple Spring](https://editor.p5js.org/codingtrain/sketches/dcd6-2mWa)
