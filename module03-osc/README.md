@@ -19,7 +19,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Pendulums and Springs
 
-- 🚂 [Pendulum Challenge](https://thecodingtrain.com/challenges/lang/all/topic/pendulum) - 22 min
+- 🚂 [Pendulum Challenge](https://thecodingtrain.com/challenges/159-simple-pendulum) - 22 min
   - 💻 [Simple Pendulum](https://editor.p5js.org/codingtrain/sketches/SN-39sHAC)
   - 💻 [Pendulum Class Example](https://editor.p5js.org/natureofcode/sketches/_YL1zZcRh)
   - 💻 [Array of Pendulums](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO)
