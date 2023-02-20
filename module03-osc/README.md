@@ -5,13 +5,13 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - 📗 [Chapter 3: Oscillation](https://nature-of-code-2nd-edition.netlify.app/oscillation/)
-- 🚂 [3.1 Angles and Rotation](https://thecodingtrain.com/learning/nature-of-code/3.1-angles-rotation.html) - 11 min
-- 🚂 [3.2 Angular Motion](https://thecodingtrain.com/learning/nature-of-code/3.2-angular-motion.html) - 10 min
-- 🚂 [3.3 Angles and Vectors](https://thecodingtrain.com/learning/nature-of-code/3.3-angles-and-vectors.html) - 10 min
-- 🚂 [3.4 Polar Coordinates](https://thecodingtrain.com/learning/nature-of-code/3.4-polar-coordinates.html) - 16 min
-- 🚂 [3.5 Simple Harmonic Motion](https://thecodingtrain.com/learning/nature-of-code/3.5-simple-harmonic-motion.html) - 12 min
-- 🚂 [3.6 Graphing Sine Wave](https://thecodingtrain.com/learning/nature-of-code/3.6-graphing-sine.html) - 10 min
-- 🚂 [3.7 Additive Waves](https://thecodingtrain.com/learning/nature-of-code/3.7-additive-waves.html) - 13 min
+- 🚂 [3.1 Angles and Rotation](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/1-angles-and-rotation) - 11 min
+- 🚂 [3.2 Angular Motion](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/2-angular-motion) - 10 min
+- 🚂 [3.3 Angles and Vectors](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/3-angles-and-vectors) - 10 min
+- 🚂 [3.4 Polar Coordinates](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/4-polar-coordinates) - 16 min
+- 🚂 [3.5 Simple Harmonic Motion](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/5-harmonic-motion) - 12 min
+- 🚂 [3.6 Graphing Sine Wave](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/6-graphing-sine-wave) - 10 min
+- 🚂 [3.7 Additive Waves](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/7-additive-waves) - 13 min
 
 ## Supplemental Material
 
@@ -19,11 +19,11 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Pendulums and Springs
 
-- 🚂 [Pendulum Challenge](https://thecodingtrain.com/challenges/159-simple-pendulum) - 22 min
+- 🚂 [Pendulum Challenge](https://thecodingtrain.com/tracks/the-nature-of-code-2/159-simple-pendulum) - 22 min
   - 💻 [Simple Pendulum](https://editor.p5js.org/codingtrain/sketches/SN-39sHAC)
   - 💻 [Pendulum Class Example](https://editor.p5js.org/natureofcode/sketches/_YL1zZcRh)
   - 💻 [Array of Pendulums](https://editor.p5js.org/codingtrain/sketches/Bj82tUlIO)
-- 🚂 [Spring Forces Challenge](https://thecodingtrain.com/challenges/160-spring-forces) - 32 min
+- 🚂 [Spring Forces Challenge](https://thecodingtrain.com/tracks/the-nature-of-code-2/160-spring-forces) - 32 min
   - 💻 [Simple Spring](https://editor.p5js.org/codingtrain/sketches/dcd6-2mWa)
   - 💻 [Spring with Vector](https://editor.p5js.org/codingtrain/sketches/_A2pm_SSg)
   - 💻 [Spring and Particle Class](https://editor.p5js.org/codingtrain/sketches/9BAoEn4Po)
