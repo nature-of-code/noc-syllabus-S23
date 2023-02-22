@@ -4,11 +4,11 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [PDF: Chapter 4: Particle Systems](https://drive.google.com/file/d/1NqQu78p0G6i85zace57RF1gHD3tCp9gc/view?usp=sharing)
-- 🚂 [Particle Class](https://drive.google.com/file/d/1qeDOD3nCu_5YX62lkSZWiG-GNDVZtFUP/view?usp=sharing) - 10 min
-- 🚂 [Particle Emitter Class](https://drive.google.com/file/d/13Q8Z2vouZ0LN5Gqr7JYaIT2KUm8UdN3j/view?usp=sharing) - 8 min
-- 🚂 [Particle Class with Inheritance](https://drive.google.com/file/d/1U4IIm6qyllrST3T3GZlwYPfIYQfnhSnN/view?usp=sharing) - 6 min
-- 🚂 [Particle Textures and Blending](https://drive.google.com/file/d/1wIYCbQ2G4GE5QhjjIzRPNpqlcziKRpLG/view?usp=sharing) - 13 min
+- 📗 [Chapter 4 Particle Systems](https://nature-of-code-2nd-edition.netlify.app/particles/)
+- 🚂 [Particle Class](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/4-particles/1-particle-system) - 10 min
+- 🚂 [Particle Emitter Class](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/4-particles/2-particle-emitters) - 8 min
+- 🚂 [Particle Class with Inheritance](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/4-particles/3-particle-inheritance) - 6 min
+- 🚂 [Particle Textures and Blending](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/4-particles/4-particle-textures) - 13 min
 
 ### Code Examples
 - 💻 [Example Code from video tutorials](https://editor.p5js.org/codingtrain/collections/OOySGOizs)
