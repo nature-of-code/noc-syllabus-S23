@@ -25,8 +25,8 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Arrays of Objects Review
 
-- 🚂 [Arrays of Objects](https://thecodingtrain.com/beginners/p5js/7.3-array-of-objects.html)
-- 🚂 [Removing Objects from Array](https://thecodingtrain.com/beginners/p5js/7.5-removing-objects-from-array.html)
+- 🚂 [Arrays of Objects](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/3-arrays-objects)
+- 🚂 [Removing Objects from Array](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/7-arrays/5-removing-elements)
 
 ### Inheritance and Polymorphism
 
@@ -42,7 +42,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S21/tree/main/projects/simulation) - due March 15
+- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S23/tree/main/projects/simulation) - due March 8/9
 
 ## Emoji Key
 
