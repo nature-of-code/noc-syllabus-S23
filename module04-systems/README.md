@@ -12,7 +12,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ### Code Examples
 - 💻 [Example Code from video tutorials](https://editor.p5js.org/codingtrain/collections/OOySGOizs)
-- 💻 [Example Code from book chapter](https://editor.p5js.org/natureofcode/collections/Ks8jJ80hJ)
+- 💻 [Example Code from book chapter](https://editor.p5js.org/natureofcode/collections/iGxPOaMRyl)
 
 ## Supplemental Material
 
