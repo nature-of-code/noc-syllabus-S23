@@ -30,8 +30,8 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Inheritance and Polymorphism
 
-- 🚂 [Inheritance in JavaScript](https://youtu.be/MfxBfRD0FVU)
-- 🚂 [Polymorphism in JavaScript](https://youtu.be/8a5BkwuZRK0)
+- 🚂 [Inheritance in JavaScript](https://thecodingtrain.com/tracks/topics-in-native-javascript/js/inheritance)
+- 🚂 [Polymorphism in JavaScript](https://thecodingtrain.com/tracks/topics-in-native-javascript/js/polymorphism)
 - 📕 [How my Dog learned Polymorphism](http://www.javaranch.com/campfire/StoryPoly.jsp)
 
 ### Higher-Order Array Functions
