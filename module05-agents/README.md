@@ -4,18 +4,17 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/file/d/1X4f2F9fs6Bz5OwkjDaY8TCrE1mUH9Umz/view?usp=sharing)
+- 📗 [Chapter 6: Autonomouse Agents](https://nature-of-code-2nd-edition.netlify.app/autonomous-agents/)
 
 ### Part 1: Individual Behaviors Basics
 
-_These videos are in-progress "rough cuts." Not every detail is finalized and there may be mistakes / issues. If you have thoughts or comments please let me know!_
-
-- 🚧 [Introduction to Autonomous Agents](https://drive.google.com/file/d/1S2fj1h5IphOF3J3VURZSimODFscT5JTg/view?usp=sharing) - 10 min
-- 🚧 [Steering Behaviors: Seeking a Target](https://drive.google.com/file/d/1RMQ_9ujud6Byl0GauZcXVRytCBUFyzvt/view?usp=sharing) - 13 min
-- 🚧 [Steering Behaviors: Pursue and Evade](https://drive.google.com/file/d/189-jJdCJLe5vdfE32ps9DlJQ9bjHkUiQ/view?usp=sharing) - 13 min
-- 🚧 [Steering Behaviors: Arrival](https://drive.google.com/file/d/1owi0GU41BNa22qMdFiBQ2X5qDgH-Ug-5/view?usp=sharing) - 9 min
-- 🚧 [Scalar Projection and the Vector Dot Product](https://drive.google.com/file/d/1A2GaR9aaUsaZzm3I5bCxPasYp6LDd1LX/view?usp=sharing) - 13 min
-- 🚧 [Path Following](https://drive.google.com/file/d/1hMjPkVPvT7SyoXJ5ATR5dNxAU10k2ixd/view?usp=sharing) - 15 min
+- 🚂 [Introduction to Autonomous Agents](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/1-steering-agents) - 10 min
+- 🚂 [Steering Behaviors: Seeking a Target](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/2-seeking-a-target) - 13 min
+- 🚂 [Steering Behaviors: Pursue and Evade](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/3-pursue-and-evade) - 13 min
+- 🚂 [Steering Behaviors: Arrival](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/4-arrive-steering) - 9 min
+- 🚂 [Steering Behaviors: Wander](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/5-wander) - 13 min
+- 🚂 [Scalar Projection and the Vector Dot Product](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/6-scalar-projection) - 13 min
+- 🚂 [Path Following](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/5-autonomous-agents/7-path-following) - 15 min
 
 ### Part 2: Group and Combined Behaviors
 
@@ -25,7 +24,7 @@ _These videos are in-progress "rough cuts." Not every detail is finalized and th
 ### Code Examples
 
 - 💻 [Steering Code from video tutorials](https://editor.p5js.org/codingtrain/collections/S4nJEexPF)
-- 💻 [Steering Code from book chapter](https://editor.p5js.org/natureofcode/collections/NJ1UCSamg)
+- 💻 [Steering Code from book chapter](https://editor.p5js.org/natureofcode/collections/6iND7LlFR)
 
 ## Supplemental Material
 
@@ -52,19 +51,8 @@ For each module, I will provide a list of additional video tutorials and reading
 - 📕 [QuadTree Data Structure (Wikipedia)](https://en.wikipedia.org/wiki/Quadtree)
 - 💻 [QuadTree JS Library in Progress](https://github.com/CodingTrain/QuadTree)
 - 💻 [QuadTree p5 example](https://editor.p5js.org/natureofcode/sketches/Y8hseRvYe)
-- 🚂 [QuadTree Coding Challenge 1](https://thecodingtrain.com/CodingChallenges/098.1-quadtree.html)
-- 🚂 [QuadTree Coding Challenge 2](https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html)
-- 🚂 [QuadTree Coding Challenge 3](https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html)
+- 🚂 [QuadTree Coding Challenge](https://thecodingtrain.com/challenges/98-quadtree)
 
-## Assignment
-
-Incorporate a steering behavior into a p5.js sketch. Here are some ideas:
-
-1. Expand / augment your simulation project incorporating the concept of a steering force: desired - velocity.
-2. Try combining multiple steering behaviors into one agent. Can you create an interface (or set of rules) to control the weights of the various behaviors?
-3. Create a path for agents to follow that is interactive or changes over time. What if the path has multiple segments? Can the points that define the path itself have their own steering behaviors? 
-4. Add visual design elements for the environment and agents in the flocking system. Are they birds, fish, insects, fictional creatures? How does varying the behavior itself (weights of forces) add to the experience?
-5. Extending the idea above, can you create an environment with two different kinds of agents that interact with each other? Maybe the birds eat the insects or perhaps there is a [symbiotic](https://en.wikipedia.org/wiki/Symbiosis) relationship between different types of creatures that benefits all of them. 
 
 ## Emoji Key
 
