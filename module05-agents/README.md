@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Chapter 6: Autonomouse Agents](https://nature-of-code-2nd-edition.netlify.app/autonomous-agents/)
+- 📗 [Chapter 5: Autonomous Agents](https://nature-of-code-2nd-edition.netlify.app/autonomous-agents/)
 
 ### Part 1: Individual Behaviors Basics
 
@@ -52,7 +52,6 @@ For each module, I will provide a list of additional video tutorials and reading
 - 💻 [QuadTree JS Library in Progress](https://github.com/CodingTrain/QuadTree)
 - 💻 [QuadTree p5 example](https://editor.p5js.org/natureofcode/sketches/Y8hseRvYe)
 - 🚂 [QuadTree Coding Challenge](https://thecodingtrain.com/challenges/98-quadtree)
-
 
 ## Emoji Key
 

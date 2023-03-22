@@ -32,7 +32,7 @@ For information on office hours and additional help, please see e-mail from the 
 
 ### SPRING BREAK
 
-### 8: Mar 22/23 - TBD (Physics Libraries or separate Fractals/CA?)
+### 8: Mar 22/23 - [Soft Body Physics](module06-softbody)
 
 ### 9: Mar 29/30 - [Fractals and Cellular Automata](module07-fractals-ca)
 
