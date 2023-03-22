@@ -14,6 +14,12 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ## Supplemental Reference Material
 
+### Other Soft Body Projects
+
+- 🎥 [Physics of JellyCar](https://youtu.be/3OmkehAJoyo)
+- 🐦 [Solving a Maze](https://twitter.com/jagarikin/status/1563752962836807680)
+- 🐦 [Blob Collisions](https://twitter.com/JuhaniHalkomaki/status/1629184126837305347)
+
 ### Matter.js
 
 - 🚂 [Matter.js video tutorials (JavaScript)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bLh3T_4wtrmVHOrOEM1ig_)
