@@ -1,4 +1,4 @@
-# Autonomous Agents
+# Soft Body (and Rigid Body) Physics
 
 ## Core Material
 
