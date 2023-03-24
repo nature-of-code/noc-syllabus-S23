@@ -19,6 +19,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🎥 [Physics of JellyCar](https://youtu.be/3OmkehAJoyo)
 - 🐦 [Solving a Maze](https://twitter.com/jagarikin/status/1563752962836807680)
 - 🐦 [Blob Collisions](https://twitter.com/JuhaniHalkomaki/status/1629184126837305347)
+- 🎨 [Big Screams](https://vimeo.com/8487873?embedded=true&source=vimeo_logo&owner=186879)
+- 🌳 [Skittish Tree](https://youtu.be/aF7sumcrNlo)
+
+### Force-Directed Graphs
+
+- 📈 [D3 Force Directed Graph](https://observablehq.com/@d3/force-directed-graph)
+- 📖 [Visual Thesauras](https://www.visualthesaurus.com/)
 
 ### Matter.js
 
@@ -29,11 +36,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 ### Toxiclibs.js
 
 - 💻 [ToxicLibs.js](http://haptic-data.com/toxiclibsjs/)
+- 📋 [ToxicLibs Java Reference](https://shiffman.github.io/toxiclibs-javadocs/)
 - 🎥 [The Making of Nokia Friends](https://vimeo.com/1472427)
 
 ## Assignment
 
-TBA
+- Option 1: Create an interactive soft body character with the toxiclibs.js VerletPhysics2D library [using the example built in class as a model](https://editor.p5js.org/noc_spring23/sketches/6AsvNEUFj). Try expanding the design from a triangle to your own custom shape. What can you incorporate visually such as colors, textures, or other enhancements?
+- Option 2: Create a "force-directed graph" with the toxiclibs.js VerletPhysics2D library [using the example built in class as a model](https://editor.p5js.org/noc_spring23/sketches/6AsvNEUFj). What data do the particles (nodes) and springs (edges) represent? What can you incorporate visually such as colors, labels, or other enhancements?
 
 ## Emoji Key
 
