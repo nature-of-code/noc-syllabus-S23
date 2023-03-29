@@ -1,4 +1,4 @@
-# Autonomous Agents
+# Soft Body (and Rigid Body) Physics
 
 ## Core Material
 
@@ -43,6 +43,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 - Option 1: Create an interactive soft body character with the toxiclibs.js VerletPhysics2D library [using the example built in class as a model](https://editor.p5js.org/noc_spring23/sketches/6AsvNEUFj). Try expanding the design from a triangle to your own custom shape. What can you incorporate visually such as colors, textures, or other enhancements?
 - Option 2: Create a "force-directed graph" with the toxiclibs.js VerletPhysics2D library [using the example built in class as a model](https://editor.p5js.org/noc_spring23/sketches/6AsvNEUFj). What data do the particles (nodes) and springs (edges) represent? What can you incorporate visually such as colors, labels, or other enhancements?
+
+Document your work with a short post and submit link [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki).
 
 ## Emoji Key
 
