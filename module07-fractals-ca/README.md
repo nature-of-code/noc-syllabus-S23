@@ -6,21 +6,20 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ### Cellular Automata
 
-- 📗 [Chapter 7 CA: DRAFT p5.js PDF](https://drive.google.com/file/d/1mg4l2gMwR2XnITY8Qf1Z4P9QD9x6fLPV/view?usp=sharing)
+- 📗 [Chapter 7](https://nature-of-code-2nd-edition.netlify.app/cellular-automata/)
 - 🚂 [Game of Life Coding Challenge](https://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html) - 38 min
 
 ### Fractals
 
-- 📗 [Chapter 8 Fractals: DRAFT p5.js PDF](https://drive.google.com/file/d/1q38A1WltfYobzRhypAUnpshyMeqsXWgc/view?usp=sharing)
+- 📗 [Chapter 8 Fractals](https://nature-of-code-2nd-edition.netlify.app/fractals/)
 - 🚂 [Recursion Coding Challenge](https://thecodingtrain.com/CodingChallenges/077-recursion.html) - 12 min
 - 🚂 [Fractal Tree Coding Challenge](https://thecodingtrain.com/CodingChallenges/014-fractaltree.html) - 15 min
-- 🚂 [Fractal Tree Animated Coding Challenge](https://thecodingtrain.com/CodingChallenges/015-fractaltreearray.html) - 22 min _(this video uses an outdated style of JS objects, but the [example code provided uses updated ES6 classes](https://editor.p5js.org/codingtrain/sketches/JDT5wrxVj).)_
 
 ### Code Examples
 
 - 💻 [Fractal and CA code examples from videos](https://editor.p5js.org/codingtrain/collections/fJ78Clagf)
-- 💻 [CA code examples from NOC book chapter 7](https://editor.p5js.org/natureofcode/collections/X_66pe-cZ)
-- 💻 [Fractal code examples from NOC book chapter 8](https://editor.p5js.org/natureofcode/collections/oQgbiDMdM)
+- 💻 [CA code examples from Chapter 7](https://editor.p5js.org/natureofcode/collections/vO150fv4lv)
+- 💻 [Fractal code Chapter 8](https://editor.p5js.org/natureofcode/collections/ujbdOAEy3)
 
 ## Supplemental Material
 
@@ -69,7 +68,7 @@ For this week's exercise pick one of the above examples to serve as the foundati
 
 #### Fractals
 
-1. Stochasitc: What if each step of fractal recursion involves some level of randomness. For example, what is each branch of a tree has a random number of sub-branches? What if the angles are random?
+1. Stochastic: What if each step of fractal recursion involves some level of randomness. For example, what is each branch of a tree has a random number of sub-branches? What if the angles are random?
 2. Oscillation / Noise: Can you apply oscillating motion or Perlin noise to the properties of a fractal. For example, can a Fractal tree "sway"?
 3. What designs can you create by varying the visual quality of each subsequent generation of fractal recursion? For example with the `strokeWeight()` for each branch, a tree could have a thick root with subsequently thinner branches.
 4. In what ways could the physics algorithms from modules 1-5 be applied to a fractal shape?
