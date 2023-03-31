@@ -26,6 +26,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 💻 [Steering Code from video tutorials](https://editor.p5js.org/codingtrain/collections/S4nJEexPF)
 - 💻 [Steering Code from book chapter](https://editor.p5js.org/natureofcode/collections/6iND7LlFR)
 
+### Reference Research and Artistic Work:
+
+- [Flow Fields](https://tylerxhobbs.com/essays/2020/flow-fields) by Tyler Hobbs
+- [Process Compendium](https://vimeo.com/22955812) by Casey Reas, [Processing Compendium Text](https://reas.com/compendium_text/)
+- [Living Wall](https://spacefiller.space/livingwall/) by SPACEFILLER
+- [Murmuration](https://roberthodgin.com/project/murmuration) by
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.

@@ -21,6 +21,15 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 💻 [CA code examples from Chapter 7](https://editor.p5js.org/natureofcode/collections/vO150fv4lv)
 - 💻 [Fractal code Chapter 8](https://editor.p5js.org/natureofcode/collections/ujbdOAEy3)
 
+### Reference Research and Artistic Work:
+
+- [MATHEMATICAL GAMES: The fantastic combinations of John Conway's new solitaire game "life"](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm) by Martin Gardner, Scientific American 223 (October 1970)
+- [Parable of the Polygons](https://ncase.me/polygons/) by Nicky Case and Vi Hart
+- [The Game Of Life - Emergence In Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
+- [The Fractals at the Heart of African Designs](https://www.ted.com/talks/ron_eglash_the_fractals_at_the_heart_of_african_designs?language=en#t-4262)
+- [Fractals in Thai Cultural Designs](https://kvis.ac.th/userfiles/files/Fractals_full%20paper-corrected.pdf)
+- [“Fractal Expression” in Chinese Calligraphy ](https://arxiv.org/pdf/0810.1242.pdf)
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.

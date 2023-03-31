@@ -12,6 +12,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 💻 [Chapter 6 Rigid Body with Matter.js Examples](https://editor.p5js.org/natureofcode/collections/IxCAhM060)
 - 💻 [Chapter 6 Soft Body with Toxiclibs.js](https://editor.p5js.org/natureofcode/collections/LZKswxYgH)
 
+### Reference Research and Artistic Work:
+
+- [“Blah blah blobby”](https://vimeo.com/41057777) by Marcela Godoy, Eunyoung Kang
+- [mta.me](https://www.chenalexander.com/Mta-me0) by Alexander Chen
+- [Ricardo Sanchez Jellyfish](https://www.nardove.com/)
+- [Makign of Nokia Friends](https://www.youtube.com/watch?v=g20QOQP6kSU)
+
 ## Supplemental Reference Material
 
 ### Other Soft Body Projects

@@ -19,6 +19,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 💻 [Genetic algorithm: Evolving Shakespeare - Simplified](http://editor.p5js.org/natureofcode/sketches/Bk4wFpXul)
 - 💻 [Full Collection of Chapter 9 examples](https://editor.p5js.org/natureofcode/collections/SiF8YnADE0)
 
+### Reference Research and Artistic Work:
+
+- [Galápagos](https://www.karlsims.com/galapagos/) by Karl Sims
+- [Karl Sims Evolved Virtual Creatures](https://youtu.be/RZtZia4ZkX8)
+- [“Drawing Machine”](http://www.yeonheelee.com/week12-final-project/) by Yeonhee Lee
+- [The Problem with Evolutionary Art Is](http://philipgalanter.com/downloads/evostar2010%20-%20galanter%20-%20the%20problem%20with%20evo%20art.pdf) Galanter, Philip, 2010.
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.

@@ -17,6 +17,11 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 💻 [Neuroevolution w/ ml5.js: Evolve Velocity](https://editor.p5js.org/natureofcode/sketches/CF9M3atLy)
 - 💻 [Neuroevolution w/ ml5.js: Flappy Bird](https://editor.p5js.org/natureofcode/sketches/gF3JHSwca)
 
+### Reference Research and Artistic Work:
+
+- [Deborah Aschheim: Neural Architecture](https://lagunaartmuseum.org/exhibitions/deborah-aschheim-neural-architecture-a-smart-building-is-a-nervous-building/)
+- [Beauty and the Brain, A Neural Approach to Aesthetics](https://thewalters.org/exhibitions/beauty-and-the-brain-a-neural-approach-to-aesthetics/)
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.

@@ -13,6 +13,12 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [3.6 Graphing Sine Wave](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/6-graphing-sine-wave) - 10 min
 - 🚂 [3.7 Additive Waves](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/3-angles/7-additive-waves) - 13 min
 
+### Reference Research and Artistic Work:
+
+- [Memo Akten, Simple Harmonic Motion](http://www.memo.tv/portfolio/simple-harmonic-motion/)
+- [Mimi Yin and Guang Zhu, Beluga](https://vimeo.com/47124314)
+- [BAI/摆:An Oscillating Sound Installation](https://vimeo.com/296984735)
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.

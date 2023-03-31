@@ -29,6 +29,12 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [Graphing 1D noise](https://youtu.be/y7sgcFhk6ZM) - 13 min
 - 🚂 [2D Random Walk](https://thecodingtrain.com/challenges/52-random-walker) - 15 min
 
+### Reference Research and Artistic Work:
+
+- [Pulse Room](https://www.lozano-hemmer.com/pulse_room.php) by Rafael Lozano-Hemmer
+- [The Book of Shaders on Noise](https://thebookofshaders.com/11/) by Patricio Gonzalez Vivo & Jen Lowe
+- [Quantum Cloud Sculpture](https://en.wikipedia.org/wiki/Quantum_Cloud)
+
 ## p5.js Review
 
 If you feel you need a p5.js refresher, specifically around Object Oriented Programming in JavaScript (classes and objects), here are links to the ICM videos:

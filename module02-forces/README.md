@@ -12,6 +12,11 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [2.5 Gravitational Attraction](https://youtu.be/EpgB3cNhKPM?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min
 - 🚂 [2.6 Mutual Attraction](https://youtu.be/GjbKsOkN1Oc?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 22 min
 
+### Reference Research and Artistic Work:
+
+- [Mud Tub](http://tomgerhardt.com/mudtub/) by Tom Gerhardt
+- [Crawling Through New York City, performance by Pope.L](https://www.newyorker.com/culture/culture-desk/crawling-through-new-york-city-with-the-artist-pope-l)
+
 ## Supplemental Material
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.

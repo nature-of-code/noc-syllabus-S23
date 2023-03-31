@@ -11,8 +11,17 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [Particle Textures and Blending](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/4-particles/4-particle-textures) - 13 min
 
 ### Code Examples
+
 - 💻 [Example Code from video tutorials](https://editor.p5js.org/codingtrain/collections/OOySGOizs)
 - 💻 [Example Code from book chapter](https://editor.p5js.org/natureofcode/collections/iGxPOaMRyl)
+
+### Reference Research and Artistic Work:
+
+- [Filippo Vanucci, Scrollables](https://vimeo.com/11482851)
+- [African Cosmos collection](https://africa.si.edu/exhibits/cosmos/universe.html)
+- [Particle Life](https://youtu.be/p4YirERTVF0) by Tom Mohr
+- [Particle Dreams](https://youtu.be/5QEp-oPaQto) by Karl Sims
+- Tron Legacy, [GMUNK](https://gmunk.com/TRON-Legacy), [JT Nimoy](https://jtnimoy.cc/item.php%3Fhandle=14881671-tron-legacy.html)
 
 ## Supplemental Material
 
