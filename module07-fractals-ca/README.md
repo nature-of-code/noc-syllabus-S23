@@ -47,19 +47,19 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### More Fractals!
 
-- 🚂 [Space Colonization Tree](https://thecodingtrain.com/CodingChallenges/017-spacecolonizer.html)
-- 🚂 [3D Space Colonization Tree](https://thecodingtrain.com/CodingChallenges/018-spacecolonizer3d.html)
-- 🚂 [Koch Snowflake](https://thecodingtrain.com/CodingChallenges/129-koch-snowflake.html)
+- 🚂 [Space Colonization Tree](https://thecodingtrain.com/challenges/17-fractal-trees-space-colonization)
+- 🚂 [3D Space Colonization Tree](https://thecodingtrain.com/challenges/18-3d-fractal-trees)
+- 🚂 [Koch Snowflake](https://thecodingtrain.com/challenges/129-koch-fractal-snowflake)
 
 ### L-Systems (Lindenmeyer Systems)
 
 - 📕 [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
-- 🚂 [L-Systems Coding Challenge](https://thecodingtrain.com/CodingChallenges/016-lsystem.html)
+- 🚂 [L-Systems Coding Challenge](https://thecodingtrain.com/challenges/16-l-system-fractal-trees)
 
 ### Complex Number Fractals
 
-- 🚂 [Mandelbrot Set](https://thecodingtrain.com/CodingChallenges/021-mandelbrot-p5.html)
-- 🚂 [Julia Set](https://thecodingtrain.com/CodingChallenges/022-juliaset.html)
+- 🚂 [Mandelbrot Set](https://thecodingtrain.com/challenges/21-mandelbrot-set-with-p5js)
+- 🚂 [Julia Set](https://thecodingtrain.com/challenges/22-julia-set)
 
 ### Assignment
 
