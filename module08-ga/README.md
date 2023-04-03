@@ -56,31 +56,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-The purpose of the assignment this week is to explore the idea of genetic algorithms and have a discussion about scenarios and possibilities at the start of class next week. You could choose one of the following three options (or design your own assignment!)
-
-### Option 1: Genetic Algorithm Design Exercise
-
-Describe a problem and approach to "solving" it with a Genetic Algorithm. [Here is a template](https://nature-of-code.github.io/noc-syllabus-S21/module07-ga/ga_design.html) you can use. Document your idea in a blog post and link below.
-
-### Option 2: Tweak Examples
-
-Play with the parameters of any of the code examples provided above. Try changing any of following:
-
-- Population Size
-- Mutation Rate
-- Fitness Function
-- Crossover method
-- Mutation method
-
-How do each of the above parameters alter the behavior / outcome of the example? Document your results.
-
-### Option 3: Create Your Own
-
-Create your own simulation with a genetic algorithm. This is probably too ambitious for a one week assignment, but it could be a step along the way to a final project. Here are some ideas:
-
-- Using the Shakespeare monkey example, try evolving a sequence of something other than characters -- geometry, musical notes, pixels, etc.
-- Using the ["evolving faces" example](http://editor.p5js.org/natureofcode/sketches/SyCZs6m_e), create your own "interactive selection" project. In addition to visual design, consider evolving sound — a short sequence of tones?
-- In [Jer Thorp’s original Smart Rockets](http://www.blprnt.com/smartrockets/) each rocket only gets five thrusters (of any direction and strength) that follow a firing sequence (of arbitrary length). Jer’s simulation also gives the rockets a finite amount of fuel. Try adding these elements or other variations to my [Smart Rockets example](https://editor.p5js.org/natureofcode/sketches/H1Z_9pX_x), [Smart Rockets video tutorial](https://youtu.be/bGz7mv2vD6g).
+- Final Project Proposal
 
 ## Emoji Key
 
