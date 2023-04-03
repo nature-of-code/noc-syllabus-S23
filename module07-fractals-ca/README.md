@@ -34,32 +34,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 For each module, I will provide a list of additional video tutorials and readings that you may draw on for further exploration. It's unlikely you would be able to consume everything in one week and if you are looking for guidance about what might fit with your interests and learning style the most, please reach out.
 
-### Cellular Automata History and Context
-
-- 📕 [Wolfram Elementary Cellular Automaton](https://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
-- 📕 [MATHEMATICAL GAMES: The fantastic combinations of John Conway's new solitaire game "life"](http://ddi.cs.uni-potsdam.de/HyFISCH/Produzieren/lis_projekt/proj_gamelife/ConwayScientificAmerican.htm) by Martin Gardner, Scientific American 223 (October 1970)
-- 📕 [Understanding segregation with a simulation](https://flowingdata.com/2014/12/09/understanding-segregation-with-a-simulation/), 🎨 [Parable of the Polygons](https://ncase.me/polygons/)
-
-### Fractals in Nature and Culture
-
-- 🎥 [The Fractals at the Heart of African Designs](https://www.ted.com/talks/ron_eglash_the_fractals_at_the_heart_of_african_designs?language=en#t-4262)
-- 📕 [How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension](https://science.sciencemag.org/content/156/3775/636)
-
-### More Fractals!
-
-- 🚂 [Space Colonization Tree](https://thecodingtrain.com/challenges/17-fractal-trees-space-colonization)
-- 🚂 [3D Space Colonization Tree](https://thecodingtrain.com/challenges/18-3d-fractal-trees)
-- 🚂 [Koch Snowflake](https://thecodingtrain.com/challenges/129-koch-fractal-snowflake)
-
-### L-Systems (Lindenmeyer Systems)
-
+- 🚂 [All Coding Train Fractal Videos](https://thecodingtrain.com/challenges/lang/all/topic/fractal))
 - 📕 [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
-- 🚂 [L-Systems Coding Challenge](https://thecodingtrain.com/challenges/16-l-system-fractal-trees)
-
-### Complex Number Fractals
-
-- 🚂 [Mandelbrot Set](https://thecodingtrain.com/challenges/21-mandelbrot-set-with-p5js)
-- 🚂 [Julia Set](https://thecodingtrain.com/challenges/22-julia-set)
 
 ### Assignment
 
