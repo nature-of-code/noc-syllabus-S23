@@ -38,13 +38,13 @@ For information on office hours and additional help, please see e-mail from the 
 
 ### 10: Apr 05/06 - [Genetic Algorithms](module08-ga)
 
-### 11: Apr 12/13 - [Neural Evolution](module09-neuro)
+### 11: Apr 12/13 - [Neural Evolution](module09-neuro) and [Final Project Proposals](projects/final)
 
-### 12: Apr 19/20 - [Final Project](projects/final)
+### 12: Apr 19/20 - **no class meeting**, see email for optional make-up session and individual meetings about [Final Project](projects/final)
 
-### 13: Apr 26/27 - [Final Project](projects/final)
+### 13: Apr 26/27 - [Final Project Workshop](projects/final)
 
-### 14: May 03/04 - [Final Project](projects/final)
+### 14: May 03/04 - [Final Project Presentations](projects/final)
 
 ## Evaluation
 
