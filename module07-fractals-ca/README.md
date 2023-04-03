@@ -14,6 +14,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 📗 [Chapter 8 Fractals](https://nature-of-code-2nd-edition.netlify.app/fractals/)
 - 🚂 [Recursion Coding Challenge](https://thecodingtrain.com/CodingChallenges/077-recursion.html) - 12 min
 - 🚂 [Fractal Tree Coding Challenge](https://thecodingtrain.com/CodingChallenges/014-fractaltree.html) - 15 min
+- 🚂 [Fractal Tree with Objects](https://thecodingtrain.com/challenges/15-object-oriented-fractal-trees) - 22 min
 
 ### Code Examples
 
