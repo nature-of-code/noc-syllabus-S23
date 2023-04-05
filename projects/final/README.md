@@ -30,7 +30,7 @@ Stay tuned for an update regarding format for proposal sharing and feedback.
 1. Is the idea clear? Is there a clearly stated goal? What do you understand / not understand?
 2. What about scope? Can it be done in such a short period of time under current circumstances?
 3. Suggestions for relevant tutorials, reference projects, or other resources?
-4. Are there ways this project can be "remote" user tested? What questions would you want to ask?
+4. Are there ways this project can be user tested? What questions would you want to ask?
 
 ## Final Project Testing (April 26/27)
 
