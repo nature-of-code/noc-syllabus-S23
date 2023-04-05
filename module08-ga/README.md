@@ -4,7 +4,7 @@
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Nature of Code Chapter 9: Genetic Algorithms](https://natureofcode.com/book/chapter-9-the-evolution-of-code/) (JS version of chapter not yet ready)
+- 📗 [Nature of Code Chapter 9: Genetic Algorithms](https://nature-of-code-2nd-edition.netlify.app/genetic-algorithms/) (JS version of chapter in progress)
 - 📕 [Section 11.3 from Kate Compton’s Doctoral Thesis “Casual Creators”](http://www.galaxykate.com/pdfs/kcompton-dissertation-casualcreators.pdf) (p. 262 - 267) (2019)
 - 🎥 [Karl Sims Evolved Virtual Creatures](https://youtu.be/RZtZia4ZkX8) - 4 min
 - 🚂 9.1 [Introduction to Genetic Algorithms](https://youtu.be/9zfeTw-uFCw?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 12 min
@@ -15,9 +15,9 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ## Code Examples
 
-- 💻 [Genetic algorithm: Evolving Shakespeare](http://editor.p5js.org/natureofcode/sketches/B1GHYpQul)
-- 💻 [Genetic algorithm: Evolving Shakespeare - Simplified](http://editor.p5js.org/natureofcode/sketches/Bk4wFpXul)
-- 💻 [Full Collection of Chapter 9 examples](https://editor.p5js.org/natureofcode/collections/SiF8YnADE0)
+- 💻 [Genetic algorithm: Evolving Shakespeare](https://editor.p5js.org/natureofcode/sketches/ZwT5cPix2)
+- 💻 [Genetic algorithm: Evolving Shakespeare - Simplified](https://editor.p5js.org/natureofcode/sketches/q4F192JCV)
+- 💻 [Chapter 9 examples](https://editor.p5js.org/natureofcode/collections/Zx-KHJHdR)
 
 ### Reference Research and Artistic Work:
 
@@ -38,9 +38,9 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Project Demos
 
-- 🚂 [Smart Rockets Coding Challenge](https://thecodingtrain.com/CodingChallenges/029-smartrockets.html)
-- 🚂 [Traveling Salesperson GA Coding Challenge](https://thecodingtrain.com/CodingChallenges/035.4-tsp.html)
-- 🚂 [Evolutionary Steering Behaviors Coding Challenge](https://thecodingtrain.com/CodingChallenges/069.1-steering-evolution.html)
+- 🚂 [Smart Rockets Coding Challenge](https://thecodingtrain.com/challenges/29-smart-rockets-in-p5js)
+- 🚂 [Traveling Salesperson GA Coding Challenge](https://thecodingtrain.com/challenges/35-traveling-salesperson)
+- 🚂 [Evolutionary Steering Behaviors Coding Challenge](https://thecodingtrain.com/challenges/69-evolutionary-steering-behaviors)
 
 ### Genetic Algorithm Optimization
 
@@ -56,7 +56,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- Final Project Proposal
+- Create a final project proposal. See [final project guidelines](https://github.com/nature-of-code/noc-syllabus-S23/blob/main/projects/final/README.md). Submit a link to your proposal [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki) and come prepared to share your idea for feedback in small groups next week.
 
 ## Emoji Key
 
