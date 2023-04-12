@@ -13,8 +13,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 - 💻 [Nature of Code 10.1: Simple Perceptron](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
 - 💻 [Train Your Own Neural Network ml5.js](https://editor.p5js.org/codingtrain/sketches/zwGahux8a)
-- 💻 [Neuroevolution w/ ml5.js: Evolve Velocity](https://editor.p5js.org/natureofcode/sketches/CF9M3atLy)
-- 💻 [Neuroevolution w/ ml5.js: Flappy Bird](https://editor.p5js.org/natureofcode/sketches/gF3JHSwca)
+- 💻 [Neuroevolution w/ ml5.js: Evolve Velocity](https://editor.p5js.org/natureofcode-archive/sketches/CF9M3atLy)
+- 💻 [Neuroevolution w/ ml5.js: Flappy Bird](https://editor.p5js.org/natureofcode-archive/sketches/gF3JHSwca)
 
 ### Reference Research and Artistic Work:
 
