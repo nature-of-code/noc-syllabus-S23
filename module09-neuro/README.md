@@ -63,3 +63,11 @@ The following emoji key will hopefully help you navigate the material for each m
 - 📕 Other reading
 - 💻 Code examples
 - 🎨 Creative project references
+
+### Examples from 2021
+
+- https://editor.p5js.org/natureofcode-archive/sketches/uMKZm0aEW
+- https://editor.p5js.org/natureofcode-archive/sketches/WswXPZdd4
+- https://editor.p5js.org/natureofcode-archive/sketches/Rjm816gLl
+- https://editor.p5js.org/natureofcode-archive/sketches/CF9M3atLy
+- https://editor.p5js.org/natureofcode-archive/sketches/gF3JHSwca
