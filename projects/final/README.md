@@ -42,7 +42,7 @@ If you are not sure how to design your testing, e-mail me and we'll discuss. [Sc
 
 ## Final Project Documentation (Presentations May 3/4, documentation due May 12)
 
-To complete the course, please post your final project documentation to a web page (blog post is fine) and submit on the course wiki. The deadline is [TBD], however, if you need more time, there is flexibility so please be in touch.
+To complete the course, please post your final project documentation to a web page (blog post is fine) and [submit on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki). The deadline is May 12, please be in touch if you anticipate any issues meeting the deadline.
 
 It's up to you to figure out how to best document your project, here are some loose guidelines if you aren't sure what to include.
 
